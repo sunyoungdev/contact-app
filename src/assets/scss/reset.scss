@@ -1,0 +1,52 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Open Sans, sans-serif;
+}
+ol,
+ul {
+  list-style: none;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+input {
+  display: block;
+  border: 1px solid #dadbdf;
+  padding: 1rem;
+}
+button {
+  background: transparent;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+}

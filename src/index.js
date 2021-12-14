@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// ReactDOM.render 특정 id 를 가지고 있는 DOM을 가져와서 여기에 react component를 그리겠다.
 ReactDOM.render(
   <React.StrictMode>
     <App />
