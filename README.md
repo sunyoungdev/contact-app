@@ -1,6 +1,10 @@
-# React Contack List App 
+# React Contact List App 
 
 You can add, delete, edit in your contact list.
+
+## - Tech stack
+
+React/Sass/Jsx
 
 # Getting Started with Create React App
 
