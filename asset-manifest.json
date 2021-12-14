@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sunyoungdev/contact-app.git/static/css/main.7f0ce0f4.chunk.css",
-    "main.js": "/sunyoungdev/contact-app.git/static/js/main.6e47bf95.chunk.js",
-    "main.js.map": "/sunyoungdev/contact-app.git/static/js/main.6e47bf95.chunk.js.map",
-    "runtime-main.js": "/sunyoungdev/contact-app.git/static/js/runtime-main.0ff2881f.js",
-    "runtime-main.js.map": "/sunyoungdev/contact-app.git/static/js/runtime-main.0ff2881f.js.map",
-    "static/js/2.f6ed65a2.chunk.js": "/sunyoungdev/contact-app.git/static/js/2.f6ed65a2.chunk.js",
-    "static/js/2.f6ed65a2.chunk.js.map": "/sunyoungdev/contact-app.git/static/js/2.f6ed65a2.chunk.js.map",
-    "static/js/3.d70d9766.chunk.js": "/sunyoungdev/contact-app.git/static/js/3.d70d9766.chunk.js",
-    "static/js/3.d70d9766.chunk.js.map": "/sunyoungdev/contact-app.git/static/js/3.d70d9766.chunk.js.map",
-    "index.html": "/sunyoungdev/contact-app.git/index.html",
-    "static/css/main.7f0ce0f4.chunk.css.map": "/sunyoungdev/contact-app.git/static/css/main.7f0ce0f4.chunk.css.map",
-    "static/js/2.f6ed65a2.chunk.js.LICENSE.txt": "/sunyoungdev/contact-app.git/static/js/2.f6ed65a2.chunk.js.LICENSE.txt"
+    "main.css": "/contact-app/static/css/main.7f0ce0f4.chunk.css",
+    "main.js": "/contact-app/static/js/main.6e47bf95.chunk.js",
+    "main.js.map": "/contact-app/static/js/main.6e47bf95.chunk.js.map",
+    "runtime-main.js": "/contact-app/static/js/runtime-main.b8473695.js",
+    "runtime-main.js.map": "/contact-app/static/js/runtime-main.b8473695.js.map",
+    "static/js/2.f6ed65a2.chunk.js": "/contact-app/static/js/2.f6ed65a2.chunk.js",
+    "static/js/2.f6ed65a2.chunk.js.map": "/contact-app/static/js/2.f6ed65a2.chunk.js.map",
+    "static/js/3.d70d9766.chunk.js": "/contact-app/static/js/3.d70d9766.chunk.js",
+    "static/js/3.d70d9766.chunk.js.map": "/contact-app/static/js/3.d70d9766.chunk.js.map",
+    "index.html": "/contact-app/index.html",
+    "static/css/main.7f0ce0f4.chunk.css.map": "/contact-app/static/css/main.7f0ce0f4.chunk.css.map",
+    "static/js/2.f6ed65a2.chunk.js.LICENSE.txt": "/contact-app/static/js/2.f6ed65a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ff2881f.js",
+    "static/js/runtime-main.b8473695.js",
     "static/js/2.f6ed65a2.chunk.js",
     "static/css/main.7f0ce0f4.chunk.css",
     "static/js/main.6e47bf95.chunk.js"
